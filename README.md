@@ -30,11 +30,11 @@ Used to create a tech blog that will allow posting of links.
   This project is protected by the MIT license.
 
   ## Screenshot 
-  ![screenshot](./public/img/)
+  ![screenshot](./public/img/techblog-screenshot.png)
 
 
   ## Links
-  [Deployed Link]()
+  [Deployed Link](https://whispering-ocean-14469.herokuapp.com/)
 
   ## Questions 
 
